@@ -1,0 +1,6 @@
+echo opencv-python>>requirements.txt
+echo numpy>>requirements.txt
+echo pandas>>requirements.txt
+echo scikit-learn>>requirements.txt
+echo joblib>>requirements.txt
+echo imbalanced-learn>>requirements.txt
