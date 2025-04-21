@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+*.ipynb_checkpoints/
+
+# FairFace dataset images (large)
+fairface/train/
+fairface/validation/
+
+# Optional: Exclude large files if not needed
+# res10_300x300_ssd_iter_140000.caffemodel
+# skin_tone_svm_model.pkl
+
+# Temporary files
+*.log
+*.tmp

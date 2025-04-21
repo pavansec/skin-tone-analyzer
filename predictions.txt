@@ -1,0 +1,3 @@
+Image: c:\Users\SEC\Desktop\skintone\black.jpg, Old: Neutral, New: Cool, HSV: [np.float64(119.61081441922563), np.float64(67.97787526225443), np.float64(65.42084684341026)]
+Image: c:\Users\SEC\Desktop\skintone\RD-6.jpg, Old: Neutral, New: Cool, HSV: [np.float64(18.159589626674265), np.float64(77.72983756055856), np.float64(181.2587631803933)]
+Image: c:\Users\SEC\Desktop\skintone\RD-6.jpg, Old: Neutral, New: Cool, HSV: [np.float64(18.159589626674265), np.float64(77.72983756055856), np.float64(181.2587631803933)]
